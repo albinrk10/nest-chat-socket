@@ -14,3 +14,5 @@ $ npm run start
 ```
 http://localhost:3000/
 ```
+
+![image](https://github.com/user-attachments/assets/6fc64721-535c-41d3-bda8-b36c3822ae84)
